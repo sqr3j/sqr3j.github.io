@@ -12,3 +12,9 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
 }
+
+pre {
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightskyblue;
+}
